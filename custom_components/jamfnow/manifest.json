@@ -1,0 +1,17 @@
+{
+  "domain": "jamfnow",
+  "name": "Jamf Now",
+  "version": "0.1.0",
+  "documentation": "https://github.com/sp32087/ha-jamfnow",
+  "requirements": [
+    "aiohttp>=3.9.0"
+  ],
+  "codeowners": [
+    "@sp32087"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "loggers": [
+    "jamfnow"
+  ]
+}

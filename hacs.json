@@ -1,0 +1,6 @@
+{
+  "name": "HA Jamf Now",
+  "content_in_root": false,
+  "domain": "jamfnow",
+  "render_readme": true
+}
