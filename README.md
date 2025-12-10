@@ -1,4 +1,4 @@
-# HA Jamf Now Integration
+# Jamf Now Integration
 
 Home Assistant custom integration for Jamf Now device management.
 
