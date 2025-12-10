@@ -1,6 +1,6 @@
 {
   "domain": "jamfnow",
-  "name": "Jamf Now",
+  "name": "JamfNow",
   "version": "0.1.0",
   "documentation": "https://github.com/sp32087/ha-jamfnow",
   "requirements": [
